@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body>header {
+    background-color: orange;
+    padding: 16px;
+    color: white;
+
+}
+
+nav > ul { 
+    list-style: none; 
+   } 
+   nav > ul > a { 
+    color: white; 
+   } 
+
+   body > main > article { 
+    margin:auto;
+    width: 70%; 
+   } 
